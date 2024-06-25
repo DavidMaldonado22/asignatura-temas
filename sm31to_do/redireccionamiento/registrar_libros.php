@@ -9,10 +9,7 @@ Petición SQL para insertar
 
 */
 
-
 $consulta = false;
-
-
 
 if ($consulta) {
     header("location: exito.php");

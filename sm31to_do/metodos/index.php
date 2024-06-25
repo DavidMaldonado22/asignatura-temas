@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <a href="header/registrar_libros.php">registrar un libro</a>
+    <a href="vista_registrar_libro.php">registrar un libro</a>
     <a href=""></a>
     <a href=""></a>
     <a href=""></a>
